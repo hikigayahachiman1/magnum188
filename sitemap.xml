@@ -6,5 +6,10 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-
+  <url>
+    <loc>https://magnum188.vercel.app/prank.mp4</loc>  <!-- Kalau video mau diindeks -->
+    <lastmod>2025-12-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
